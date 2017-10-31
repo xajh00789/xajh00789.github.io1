@@ -278,12 +278,12 @@ code {
 .logo {
   display: block;
   padding: 10px 0;
-  width: 128px;
-  height: 128px;
-  background-image: url("/img/panda.ico");
+  width: 150px;
+  height: 150px;
+  background-image: url("/img/boy.ico");
   background-position: 0px 10px;
   background-repeat: no-repeat;
-  background-size: 128px 128px;
+  background-size: 150px 150px;
 }
 .main-body {
   margin-top: -60px;
@@ -375,7 +375,7 @@ code {
 #header-title .subtitle {
   font-size: 16px;
   font-style: italic;
-  line-height: 138px;
+  line-height: 160px;
   color: rgba(255,255,255,0.7);
   text-shadow: 0 1px rgba(0,0,0,0.2);
 }
@@ -1584,9 +1584,9 @@ a.article-title:hover {
   line-height: 22px;
 }
 #footer .logo {
-  width: 102.4px;
-  height: 102.4px;
-  background-size: 102.4px 102.4px;
+  width: 120px;
+  height: 120px;
+  background-size: 120px 120px;
 }
 i.icon {
   display: inline-block;
